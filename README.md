@@ -1,4 +1,4 @@
-# # Merhaba, Ben [Burak]! 👋  
+# # Merhaba, Ben Burak! 👋  
 
 💻 **Frontend Developer | HTML, CSS, JavaScript **  
 
